@@ -1,4 +1,3 @@
-<!---
 git config --global user.name "Adebimpe-gladys!"
 git config --global user.email "205415108+Adebimpe-gladys@users.noreply.github.com!"
 
